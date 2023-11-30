@@ -1,0 +1,44 @@
+body
+{
+background-image: url(download.jpeg) ;
+color: rgb(0, 0, 0);
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px rgb(49, 49, 49);
+}
+.heading_div
+{
+float:none;
+background: white;
+margin: 0px;
+box-shadow: 5px 5px 5px rgb(49, 49, 49);
+    
+}
+body{
+    background-image: url("download.jpeg");
+    color:blueviolet;
+}
+.heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float: none ;
+    background: white ;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }    
+
+
+
+
